@@ -2,4 +2,4 @@ streamlit
 pyvis
 pygraphviz
 networkx
-pytorch
+torch
